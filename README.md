@@ -2,7 +2,7 @@
 <!--
 **insertnewusername/insertnewusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img width="1024" height="1023" alt="image" src="https://github.com/user-attachments/assets/5d5f97e0-39d4-4230-bb72-e12507e42899" />
+<img width="70%" height="400" alt="image" src="https://github.com/user-attachments/assets/5d5f97e0-39d4-4230-bb72-e12507e42899" />
 
 
 I'm a person, in Australia. <br>
