@@ -1,12 +1,13 @@
-## Hi there 👋
+## Hi there 👋<br><br>
 <!--
 **insertnewusername/insertnewusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<br>
+
 I'm a person, in Australia. <br>
 I'm currently working on nothing. <br>
 Fun fact: Your currently viewing me readme<br>
 **Check out my pinned projects!**
+
 <!-- Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
